@@ -1,2 +1,2 @@
 # TicTacToe
-Java Code for TicTakToe game.  
+Simple Java Code for TicTacToe game.  
